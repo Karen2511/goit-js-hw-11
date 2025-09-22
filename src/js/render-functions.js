@@ -62,3 +62,4 @@ export function hideLoader() {
   loader.classList.add('hidden');
 }
 
+export { loadMoreBtn };
